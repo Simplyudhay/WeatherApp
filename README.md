@@ -18,8 +18,7 @@ This is a web app developed as a final project using HTML, CSS, and Vanilla Java
 - VS Code
 - SheCodes Weather API
 - OpenWeatherMap API
-- Netlify
-
+  
 # Installation and Usage
 To use this app, you can either clone this repository or download the zip file.
 
